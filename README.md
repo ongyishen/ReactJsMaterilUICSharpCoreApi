@@ -44,7 +44,7 @@ update-database
 ------
 ## React JS [Front End]
 
-Change the Backapi API UTL at api.js file
+Change the Backapi API URL at api.js file
 
 ```javascript
 import axios from "axios";
